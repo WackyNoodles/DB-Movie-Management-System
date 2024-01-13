@@ -1,0 +1,1215 @@
+1 109 Cinemas Grandberry Mall 310
+2 AMC Cinemas Al Khobar 170
+3 AMC Cinemas Azizia Mall 310
+4 AMC Cinemas Granada Center 220
+5 AMC Cinemas Hayat Mall 170
+6 AMC Cinemas Red Sea Mall 230
+7 AMC Cinemas Riyadh Park 280
+8 AMC Empire 25 200
+9 AMC Lincoln Square 280
+10 AMC Lincoln Square 13 280
+11 AMC Loews Lincoln Square 13 280
+12 AMC Metreon 260
+13 Aeon Cinema Itami 260
+14 Al Jazeera Cinema 290
+15 Alamo Drafthouse Cinema 310
+16 Ambassador Theaters 200
+17 Ambassador Theatres Chiayi 290
+18 Ambassador Theatres Kaohsiung 190
+19 Ambassador Theatres Taipei 230
+20 Ambassador Theatres Taoyuan 260
+21 Americana Plaza Cinema 230
+22 Americana Plaza Cinemas 230
+23 Americana Plaza Mall Cinemas 230
+24 Anteo Palazzo Cinema 270
+25 Anteo Palazzo del Cinema 250
+26 ArcLight Hollywood 230
+27 Arclight Cinemas Hollywood 230
+28 Arena Cinema 310
+29 Arena Cinemas 310
+30 Arena Cinemas Fribourg 290
+31 Arena Cinemas La Praille 230
+32 Arena Cinemas Sihlcity 170
+33 Arkan Plaza Cinemas 170
+34 Atlas Flores 260
+35 Atrium Cinemas 220
+36 Aventure 290
+37 Ayala Malls Cinemas Greenbelt 3 230
+38 Ayala Malls Cinemas Trinoma 220
+39 Ayala Malls Cinemas U.P. Town Center 170
+40 Ayala Malls TriNoma Cinema 230
+41 BFI Southbank 240
+42 BHD Star Bitexco Financial Tower 290
+43 BHD Star Cineplex Bitexco Financial Tower 260
+44 BHD Star Vincom Long Bien 240
+45 BHD Star Vincom Nguyen Chi Thanh 220
+46 BHD Star Vincom Thao Dien 200
+47 Balaka Cineworld 200
+48 Balaka Cineworld Coxs Bazar 170
+49 Bio Oko 310
+50 Biopalatset 230
+51 Blockbuster Cinemas 230
+52 Blockbuster Cinemas Concord 260
+53 Blockbuster Cinemas Concord Bakshibazar 190
+54 Blockbuster Cinemas Cumilla 290
+55 Blockbuster Cinemas Jamuna Future Park 230
+56 Blockbuster Cinemas Shimanto Shambhar 200
+57 Blockbuster Cinemas Sylhet 190
+58 Bona Cinema 200
+59 Bona Cinema Beijing Road 290
+60 Bona Cinema Chaoyang Joy City 200
+61 Bona Cinema Chaoyang U-Town 200
+62 Bona Cinema Chunxi Road 170
+63 Bona Cinema Wangfujing 200
+64 Bona International Cineplex 200
+65 Bonifacio High Street Cinema 310
+66 Bonifacio High Street Cinemas 310
+67 Broadway Circuit Cyberport 310
+68 Broadway Circuit MegaBox 190
+69 Broadway Circuit The ONE 280
+70 CGR Paris Lilas 160
+71 CGV Busan Seomyeon 170
+72 CGV Central Park 190
+73 CGV Cheongdam Cine City 190
+74 CGV Cinema - Guangzhou Haizhu 190
+75 CGV Cinema Shenzhen 180
+76 CGV Cinema West Nanjing 230
+77 CGV Cinemas 180
+78 CGV Crescent Mall 190
+79 CGV Gangbyeon 310
+80 CGV Gangnam 310
+81 CGV Grand Indonesia 280
+82 CGV Incheon 260
+83 CGV Mall Kelapa Gading 290
+84 CGV Mokdong 170
+85 CGV Pacific Place 200
+86 CGV Paris Van Java 190
+87 CGV Senayan City 200
+88 CGV Sinchon 190
+89 CGV Summarecon Mal Serpong 240
+90 CGV Sun Plaza Medan 170
+91 CGV Trans Studio Mall Makassar 310
+92 CGV Transmart Buah Batu 260
+93 CGV Transmart Cilandak 260
+94 CGV Tunjungan Plaza 220
+95 CGV Vincom Binh Thanh 170
+96 CGV Vincom Bà Triệu 310
+97 CGV Vincom Center Haiphong 310
+98 CGV Vincom Dong Khoi 280
+99 CGV Vincom Go Vap 310
+100 CGV Vincom Mega Mall Thao Dien 170
+101 CGV Vincom Nguyen Chi Thanh 190
+102 CGV Vincom Plaza Ha Dong 170
+103 CGV Vincom Thao Dien 190
+104 CGV Wangsimni 170
+105 CGV Yongsan 200
+106 CGV Yongsan I-Park Mall 280
+107 CJ CGV Myeongdong Station Cine Library 260
+108 Cairo Festival City Mall Cinemas 280
+109 Capitol 240
+110 Capitol 240
+111 Carnival Cinemas Ansal Plaza 200
+112 Carnival Cinemas Dreams Mall 220
+113 Carnival Cinemas High Street Phoenix 160
+114 Carnival Cinemas Moviestar 290
+115 Carnival Cinemas Rockline Mall 220
+116 Carnival Cinemas Star Mall 290
+117 Cathay Cineplex AMK Hub 220
+118 Cathay Cineplex Causeway Point 200
+119 Cathay Cineplex JEM 230
+120 Cathay Cineplex West Mall 290
+121 Centaurus Cineplex 240
+122 Chhaya Cinema 290
+123 Cine ABC 190
+124 Cine Belas Artes 270
+125 Cine Capitol 180
+126 Cine Capitol Gran Vía 160
+127 Cine Colombia Andino 280
+128 Cine Colombia Calima 290
+129 Cine Colombia Gran Estación 170
+130 Cine Colombia Santafé 280
+131 Cine Colombia Titan Plaza 220
+132 Cine Colombia Titán Plaza 200
+133 Cine Colombia Unicentro 190
+134 Cine Doré 200
+135 Cine Hoyts La Reina 200
+136 Cine Hoyts La Reina 4D 290
+137 Cine Hoyts Maipú 190
+138 Cine Hoyts Parque Arauco 280
+139 Cine Hoyts San Agustin 260
+140 Cine Odeon Petrobras 320
+141 Cine Palafox 170
+142 Cine Paris 240
+143 Cine Sur Nervión Plaza 310
+144 Cine Sur Plaza Éboli 240
+145 Cine Yelmo Ideal 280
+146 Cine Yelmo Islazul 260
+147 Cine Yelmo Planetocio 290
+148 Cine Yelmo Plaza Norte 280
+149 Cine Yelmo Roquetas de Mar 290
+150 Cine de Chef Guro 310
+151 CineCentre GrandWest 290
+152 CineCentre Killarney Mall 200
+153 CineCentre Pavilion 290
+154 CineCentre Suncoast 200
+155 CineCity Vlissingen 290
+156 CineMec Utrecht 200
+157 CineRoyal Dalma Mall 240
+158 CineRoyal Khalidiyah Mall 310
+159 CineStar Anděl 230
+160 CineStar Anděl - VIP 170
+161 CineStar Anděl 4DX 170
+162 CineStar Anděl IMAX 240
+163 CineStar Berlin Potsdamer Platz 200
+164 CineStar Cubix am Alexanderplatz 260
+165 CineStar Eden 220
+166 CineStar Frankfurt Metropolis 220
+167 CineStar Frankfurt am Main 220
+168 CineStar Hellersdorf 290
+169 CineStar IMAX 310
+170 CineStar Kino im Atrium 170
+171 CineStar Metropolis 220
+172 CineStar Original 240
+173 CineStar Original im Sony Center 280
+174 CineStar Pankrác 220
+175 CineStar Sony Center 170
+176 CineStar Stuttgart SI-Centrum 290
+177 CineStar Černý Most 310
+178 Cinebel 260
+179 Cineblend 220
+180 Cinecenter 200
+181 Cinecittà 300
+182 Cinecittà Multisala 320
+183 Cinecittà Nürnberg 290
+184 Cineco Cinemas 180
+185 Cineco Cinemas Seef 220
+186 Cineco City Center 180
+187 Cineco City Centre 180
+188 Cinedome Abtwil 220
+189 Cinegold Plex 260
+190 Cinegold Plex Bahria Town 170
+191 Cinegold Plex Packages Mall 190
+192 Cinegold Plex Rawalpindi 170
+193 Cinema Anteo 160
+194 Cinema Apollo 290
+195 Cinema Arcobaleno 200
+196 Cinema Aventure 290
+197 Cinema Belgrano Multiplex 240
+198 Cinema Beltrade 220
+199 Cinema Centrale 290
+200 Cinema City AFI Cotroceni 280
+201 Cinema City Arad 220
+202 Cinema City Arkadia 230
+203 Cinema City Arkády Pankrác 190
+204 Cinema City Bacau 190
+205 Cinema City Bonarka 220
+206 Cinema City Braila 260
+207 Cinema City Chodov 200
+208 Cinema City Flora 200
+209 Cinema City Galaxie 190
+210 Cinema City Galeria Mokotów 310
+211 Cinema City Iulius Mall 310
+212 Cinema City Letňany 290
+213 Cinema City Liberec 290
+214 Cinema City Manufaktura 240
+215 Cinema City Mega Mall 200
+216 Cinema City Nový Smíchov 280
+217 Cinema City Olympia Brno 260
+218 Cinema City Olympia Plzeň 220
+219 Cinema City Pardubice 170
+220 Cinema City Pitesti 290
+221 Cinema City Ploiesti 240
+222 Cinema City Silesia City Center 170
+223 Cinema City Sun Plaza 230
+224 Cinema City Târgu Mures 170
+225 Cinema City Zličín 190
+226 Cinema Devoto 200
+227 Cinema Galeries 220
+228 Cinema Mexico 220
+229 Cinema Palace 200
+230 Cinema Palazzo del Cinema di Venezia 200
+231 Cinema Park Europe 190
+232 Cinema Park Evropeyskiy 260
+233 Cinema Park Gagarin 240
+234 Cinema Park Krasnaya Ploshchad 160
+235 Cinema Park Krasnaya Presnya 170
+236 Cinema Park Kurskaya 240
+237 Cinema Park Leto Mall 220
+238 Cinema Park Linza 170
+239 Cinema Park Mega 310
+240 Cinema Park Mega Belaya Dacha 260
+241 Cinema Park Mega Khimki 190
+242 Cinema Park Metropolis 160
+243 Cinema Park Triumph Mall 170
+244 Cinema Qatar Villagio 200
+245 Cinema Riverside 220
+246 Cinema Royal Lund 290
+247 Cinema Spegeln 200
+248 Cinema Star Mega Belaya Dacha 310
+249 Cinema Star Metropolis 240
+250 Cinema Trevi 220
+251 Cinemall 250
+252 Cinemall City Complex 250
+253 Cinemark Alto Las Condes 260
+254 Cinemark Botafogo Praia Shopping 240
+255 Cinemark Bradesco Prime 280
+256 Cinemark Caballito 190
+257 Cinemark Calle 100 170
+258 Cinemark Downtown 280
+259 Cinemark Downtown São Paulo 280
+260 Cinemark Eldorado 310
+261 Cinemark Jockey Plaza 190
+262 Cinemark Mall Aventura Plaza Bellavista 260
+263 Cinemark Mall Marina Arauco 190
+264 Cinemark Mall Plaza Norte 170
+265 Cinemark Mall Plaza Vespucio 280
+266 Cinemark Malvinas Argentinas 170
+267 Cinemark MegaPlaza 170
+268 Cinemark Multicentro 220
+269 Cinemark Open Plaza Angamos 230
+270 Cinemark Palermo 230
+271 Cinemark Plaza Vespucio 200
+272 Cinemark Plaza de las Américas 230
+273 Cinemark Pátio Higienópolis 220
+274 Cinemark SP Market 250
+275 Cinemark Shopping Eldorado 190
+276 Cinemark Shopping Metrô Tucuruvi 240
+277 Cinemark Tinseltown 190
+278 Cinemark Tinseltown and XD 320
+279 Cinemark Tortugas 170
+280 Cinemark Tortugas Mall 190
+281 Cinemark Village Mall 310
+282 Cinematek 200
+283 CinemaxX Bielefeld 240
+284 CinemaxX Essen 170
+285 CinemaxX Hamburg 200
+286 CinemaxX Hamburg Dammtor 200
+287 CinemaxX Stuttgart 170
+288 CinemaxX Stuttgart SI-Centrum 190
+289 Cinemaximum Akasya 200
+290 Cinemaximum Akbati 290
+291 Cinemaximum Akbatı 290
+292 Cinemaximum Brandium 170
+293 Cinemaximum Capacity 170
+294 Cinemaximum Capacity Sinemaları 170
+295 Cinemaximum Carousel 170
+296 Cinemaximum Citys Nişantaşı 230
+297 Cinemaximum City’s Nişantaşı 310
+298 Cinemaximum Emaar Square Mall 190
+299 Cinemaximum Istinye Park 160
+300 Cinemaximum Kanyon 230
+301 Cinemaximum Marmara Forum 220
+302 Cinemaximum MetroCity 190
+303 Cinemaximum Optimum Outlet 290
+304 Cinemaximum Palladium 190
+305 Cinemaximum Piazza 170
+306 Cinemaximum Trump Towers 190
+307 Cinemaximum Viaport Venezia 220
+308 Cinemaximum Zorlu Center 190
+309 Cinemaximum İstinye Park 200
+310 Cinemaximum İstinyePark 230
+311 Cinemaxx Berlin Alexanderplatz 200
+312 Cinemaxx Bremen 170
+313 Cinemaxx Essen 290
+314 Cinemaxx Hamburg Dammtor 280
+315 Cinemaxx Mannheim 190
+316 Cinemaxx Potsdamer Platz 310
+317 Cinemes Full HD 200
+318 Cinemes Girona 220
+319 Cinemex 150
+320 Cinemex Antara 170
+321 Cinemex Galerias Metepec 190
+322 Cinemex Las Americas 290
+323 Cinemex Mundo E 230
+324 Cinemex Pabellon Cuauhtemoc 190
+325 Cinemex Pabellon Polanco 190
+326 Cinemex Paseo Acoxpa 290
+327 Cinemex Patio Universidad 190
+328 Cinemex Plaza Satelite 290
+329 Cinemex Polanco 220
+330 Cinemex Reforma 230
+331 Cinemex Reforma 222 200
+332 Cinemex Santa Fe 190
+333 Cinemex Satelite 290
+334 Cinemex Toreo 170
+335 Cinepax Amanah Mall 220
+336 Cinepax City Auditorium 290
+337 Cinepax Fortress Square 290
+338 Cinepax Lake City 220
+339 Cinepax Ocean Mall 190
+340 Cinepax Ocean Tower 290
+341 Cinepax Packages Mall 200
+342 Cineplanet Alcázar 280
+343 Cineplanet Costanera Center 200
+344 Cineplanet Florida Center 190
+345 Cineplanet Mall Florida Center 220
+346 Cineplanet Paseo Quilín 240
+347 Cineplanet Plaza Norte 170
+348 Cineplanet Plaza San Miguel 290
+349 Cineplanet Plaza Vespucio 310
+350 Cineplanet Primavera 200
+351 Cineplanet San Miguel 220
+352 Cineplex Alhambra 190
+353 Cineplex Cinemas Coquitlam 260
+354 Cineplex Cinemas Dartmouth Crossing 190
+355 Cineplex Cinemas Langley 290
+356 Cineplex Cinemas Markham 240
+357 Cineplex Cinemas Mississauga 310
+358 Cineplex Cinemas Queensway 220
+359 Cineplex Cinemas Scarborough 220
+360 Cineplex Cinemas Vaughan 190
+361 Cineplex Cinemas Yonge-Dundas 170
+362 Cineplex Cologne 200
+363 Cineplex Green Plaza 190
+364 Cineplex Leipzig 220
+365 Cineplex Mall of Arabia 280
+366 Cineplex Mannheim 310
+367 Cineplex Odeon 170
+368 Cineplex Odeon Eglinton Town Centre Cinemas 290
+369 Cineplex Odeon International Village 200
+370 Cineplex Odeon South Edmonton Cinemas 190
+371 Cineplex Pforzheim 310
+372 Cineplex Scotiabank Theatre Toronto 280
+373 Cineplex Titania 200
+374 Cineplexx Athens Metro Mall 310
+375 Cineplexx Donauplex 280
+376 Cineplexx Graz 200
+377 Cineplexx Hohenems 290
+378 Cineplexx Larissa 220
+379 Cineplexx Linz 260
+380 Cineplexx Salzburg City 190
+381 Cineplexx Thessaloniki 290
+382 Cinepolis 240
+383 Cinepolis AlphaOne Ahmedabad 170
+384 Cinepolis Caballito 260
+385 Cinepolis Cosmocentro 190
+386 Cinepolis Diana 220
+387 Cinepolis Forum Buenavista 170
+388 Cinepolis Galerias Atizapan 240
+389 Cinepolis Galerias Vallarta 240
+390 Cinepolis Hayuelos 290
+391 Cinepolis JK Iguatemi 230
+392 Cinepolis Larissa 290
+393 Cinepolis Oasis Coyoacan 170
+394 Cinepolis Oasis Coyoacán 220
+395 Cinepolis Orion Mall 290
+396 Cinepolis Pabellon Cuauhtemoc 240
+397 Cinepolis Parque Maia 290
+398 Cinepolis Perinorte 240
+399 Cinepolis Perisur 200
+400 Cinepolis Plaza Carso 170
+401 Cinepolis Plaza Satelite 190
+402 Cinepolis Plaza Satélite 240
+403 Cinepolis Salitre Plaza 200
+404 Cinepolis Samara Shops 220
+405 Cinepolis Seasons Mall 220
+406 Cinepolis Syntagma 200
+407 Cinepolis Titan Plaza 190
+408 Cinepolis Unicentro 200
+409 Cinepolis Unity One 220
+410 Cinepolis Universidad 200
+411 Cinepolis VIP Saket 200
+412 Cinerama Dome 250
+413 Cines Yelmo Sant Cugat 260
+414 Cinesa Diagonal 190
+415 Cinesa Diagonal Mar 220
+416 Cinesa Festival Park 170
+417 Cinesa Heron City 290
+418 Cinesa La Maquinista 200
+419 Cinesa Marineda City 170
+420 Cinesa Mendez Alvaro 190
+421 Cinesa Parc Vallès 290
+422 Cinesa Parque Corredor 240
+423 Cinesa Parquesur 190
+424 Cinesa Príncipe Pío 230
+425 Cinesa Xanadú 220
+426 Cinescape 300
+427 Cinescape Avenues 300
+428 Cinesur El Tablero 220
+429 Cinesur Miramar Fuengirola 240
+430 Cinesystem Morumbi Town 260
+431 Cinesystem Rio Anil Shopping 260
+432 Cineville 290
+433 Cineworld Birmingham 220
+434 Cineworld Edinburgh 170
+435 Cineworld Enfield 170
+436 Cineworld Glasgow 220
+437 Cineworld Glasgow Renfrew Street 290
+438 Cineworld Leicester Square 200
+439 Cineworld Leicester Square 200
+440 Cineworld Sheffield 200
+441 Ciné 17 230
+442 Cinépolis Belgrano 260
+443 Cinépolis Caballito 220
+444 Cinépolis Caxias Shopping 170
+445 Cinépolis Easton Outlet Mall 240
+446 Cinépolis Florida Center 260
+447 Cinépolis Hayuelos 310
+448 Cinépolis Icaraí 190
+449 Cinépolis Iguatemi Esplanada 190
+450 Cinépolis JK Iguatemi 230
+451 Cinépolis La Reina 280
+452 Cinépolis Lagoon 200
+453 Cinépolis Luxury Cinemas 200
+454 Cinépolis Millennium 170
+455 Cinépolis Palermo 170
+456 Cinépolis Parque Maia 290
+457 Cinépolis Plaza Oeste 240
+458 Cinépolis RioMar Recife 170
+459 Cinépolis Saavedra 240
+460 Cinépolis Salitre Plaza 240
+461 Cinépolis Santa Úrsula 170
+462 Cinépolis São Bernardo Plaza 170
+463 Ciputra World XXI 310
+464 City Centre Alexandria Cinemas 200
+465 City Cinema 180
+466 City Cinema City Centre 180
+467 City Stars Mall Cinemas 220
+468 Cityscape Cinema 260
+469 Cityscape Mall Cinemas 310
+470 Citystars Heliopolis Cinemas 240
+471 Colosseum Kino 310
+472 Curzon Mayfair 260
+473 Curzon Mayfair 290
+474 Curzon Soho 260
+475 Curzon Soho 310
+476 DT Cinemas - DLF Promenade 220
+477 Dandy Mega Mall Cinemas 220
+478 Delite Cinema 220
+479 Dendy Opera Quays 290
+480 Downtown Mall Cinemas 290
+481 E-DA Outlet Mall Cinema 170
+482 EYE Filmmuseum 230
+483 El Capitan Theatre 230
+484 Electric Cinema Portobello 200
+485 Electric Cinema Portobello 200
+486 Electric Cinema Shoreditch 200
+487 EmQuartier Cineplex 190
+488 Empire Cinemas 230
+489 Empire Cinemas 280
+490 Empire Cinemas Al Andalus 190
+491 Empire Cinemas Jazan 290
+492 Empire Cinemas Mall of Arabia 200
+493 Empire Cinemas Mall of Qatar 220
+494 Empire Cinemas Obhur 220
+495 Empire Cinemas Panorama 240
+496 Empire Cinemas Soudah Park 200
+497 Empire Cinemas Walthamstow 240
+498 Espaço Itaú de Cinema Augusta 220
+499 Esplanade Cineplex 200
+500 Event Cinemas Chermside 190
+501 Event Cinemas Garden City 240
+502 Event Cinemas George Street 220
+503 Event Cinemas Marion 170
+504 Event Cinemas Pacific Fair 240
+505 Everyman Belsize Park 260
+506 Everyman Cinema Bristol 160
+507 Everyman Cinema Bristol 240
+508 Everyman Cinema Hampstead 200
+509 Everyman Cinema Leeds 240
+510 Everyman Glasgow 310
+511 Everyman Hampstead 310
+512 Everyman Manchester St Johns 170
+513 Everyman York 170
+514 Fifth Avenue Cinemas 240
+515 Filmhallen 260
+516 Filmhouse Calabar 170
+517 Filmhouse IMAX Apapa 190
+518 Filmhouse IMAX Lekki 280
+519 Filmhouse Surulere 310
+520 Filmpalast am ZKM 260
+521 Filmstaden Bergakungen 290
+522 Filmstaden Heron City 260
+523 Filmstaden Karlskrona 190
+524 Filmstaden Kista 260
+525 Filmstaden Linköping 190
+526 Filmstaden Scandinavia 190
+527 Filmstaden Sergel 280
+528 Filmstaden Söder 190
+529 Filmstaden Uppsala 190
+530 Filmstaden Västerås 170
+531 Filmstaden Örebro 290
+532 Flik Cinema Mirqab Mall 260
+533 Formula Kino 220
+534 Formula Kino Aurora 170
+535 Formula Kino City 200
+536 Formula Kino Europa 260
+537 Formula Kino Europa City Mall 190
+538 Formula Kino Gorizont 160
+539 Formula Kino Silver City 290
+540 Formula Kino TSUM 290
+541 Formula Kino Tsaritsyno 190
+542 Formula Kino na Kievskom 310
+543 Fox Cineplex Sarit 220
+544 Fyrisbiografen 310
+545 GSC 1 Utama 310
+546 GSC Gurney Plaza 170
+547 GSC IOI City Mall 190
+548 GSC Mid Valley 280
+549 GSC Mid Valley Megamall 230
+550 GSC Pavilion KL 190
+551 Galaxy Nguyen Du 200
+552 Galaxy Nguyen Trai 220
+553 Galaxy Quang Trung 290
+554 Gateway Cineplex 170
+555 Gateway Cineplex 10 170
+556 Gaumont Convention 220
+557 Gaumont Montparnasse 160
+558 Gaumont Opéra 190
+559 Gaumont Opéra Capucines 230
+560 Gaumont Parnasse 190
+561 Gaumont Saint-Denis 170
+562 Genesis Deluxe Cinemas Maryland Mall 260
+563 Genesis Deluxe Cinemas Palms 230
+564 Genesis Deluxe Cinemas Sangotedo 240
+565 Gimle Kino 200
+566 Gloria Palast München 260
+567 Glorietta Cinema 240
+568 Golden Harvest Tuen Mun Town Plaza 290
+569 Golden Village Bishan 170
+570 Golden Village Jurong Point 260
+571 Grand Cinemas 250
+572 Grand Cinemas Al Hamra 250
+573 Grand Ocean 220
+574 Green Plaza Mall Cinemas 170
+575 Greenbelt 3 Cinema 260
+576 HOME Manchester 220
+577 Hoyts Abasto 230
+578 Hoyts Arauco Maipú 220
+579 Hoyts Broadway 190
+580 Hoyts Carousel 290
+581 Hoyts Chadstone 170
+582 Hoyts Cinema 180
+583 Hoyts Dot 250
+584 Hoyts Dot Baires 190
+585 Hoyts Entertainment Quarter 200
+586 Hoyts Highpoint 160
+587 Hoyts La Plata 170
+588 Hoyts La Reina 230
+589 Hoyts Maipú 220
+590 Hoyts Melbourne Central 190
+591 Hoyts Parque Arauco 230
+592 Hoyts Patio Bullrich 250
+593 Hoyts Plaza Egaña 290
+594 Hoyts Plaza Sur 170
+595 Hoyts Quilmes 190
+596 Hoyts Sylvia Park 240
+597 Hoyts Unicenter 290
+598 INOX Amanora Mall 260
+599 INOX Cyber Hub 240
+600 INOX Garuda Mall 240
+601 INOX Growels 101 Mall 240
+602 INOX Leisure 190
+603 INOX Metro Junction Mall 260
+604 INOX Nehru Place 220
+605 INOX R City 190
+606 INOX R-City 220
+607 INOX R-City Mall 230
+608 INOX Saket 260
+609 Jinyi Cinemas - Hangzhou Kerry Centre 200
+610 Jinyi Cinemas - Wuhan World City Mall 240
+611 Joya Cinema 220
+612 KARO 11 Oktyabr 200
+613 KARO 7 Atrium 240
+614 KARO Sky 17 260
+615 Karo Film October 220
+616 Karo Film Zvezda 190
+617 Karofilm 280
+618 Kinepolis Antwerp 200
+619 Kinepolis Breda 220
+620 Kinepolis Brugge 170
+621 Kinepolis Brussels 280
+622 Kinepolis Ghent 260
+623 Kinepolis Groningen 220
+624 Kinepolis Jaarbeurs 200
+625 Kinepolis Leuven 290
+626 Kinepolis Liège 190
+627 Kinepolis Valencia 310
+628 Kino Kristiansand 240
+629 Kino Lucerna 240
+630 Kino Tromsø 260
+631 Kino Victoria 230
+632 KinoMax Yekaterinburg 310
+633 Kinomax Kashirskaya Plaza 200
+634 Kinomax Khimki 310
+635 Kinomax Mega Khimki 220
+636 Kinomax Mega Parnas 190
+637 Kinomax Vegas Kuntsevo 290
+638 Kinoplex Itaim 200
+639 Kinoplex Leblon 230
+640 Kinoplex Nova América 290
+641 Kinoplex ParkShopping 230
+642 Kinoplex Shopping Leblon 200
+643 Kinoplex Shopping Tijuca 240
+644 Kinoplex Shopping Vila Olímpia 230
+645 Kinoplex Tijuca 220
+646 Kinoplex Vila Olímpia 190
+647 Kinépolis Ciudad de la Imagen 190
+648 Kinépolis Lomme 290
+649 Kinépolis Valencia 200
+650 Kitag Cinema Abaton 200
+651 Kitag Cinema Capitol 280
+652 Kitag Cinema Capitol Sihlcity 290
+653 Kitag Cinema Maxx 260
+654 Kitag Cinema Rex 190
+655 Kitag Cinemas Abaton 200
+656 Kitag Cinemas Capitol 190
+657 Kitag Kino Abaton 190
+658 Kitag Kino Bellevue 280
+659 Kitag Kino Capitol 200
+660 Kitag Kino Corso 260
+661 Kitag Kino Maxx 290
+662 Klingenberg Kino 230
+663 Kriterion 190
+664 Lab111 170
+665 Laemmle Royal 230
+666 Landmark Cinemas 10 Shawnessy 240
+667 Landmark Cinemas 12 Guildford 220
+668 Landmark Cinemas 16 Country Hills 190
+669 Landmark Cinemas 24 Kanata 200
+670 Landmark Cinemas 6 Jackson Square 170
+671 Landmark Cinemas 9 City Centre 170
+672 Le Grand Rex 190
+673 Lotte Cinema 200
+674 Lotte Cinema Cantavil 230
+675 Lotte Cinema Centum City 230
+676 Lotte Cinema Daegu 220
+677 Lotte Cinema Daehakro 290
+678 Lotte Cinema Danang 220
+679 Lotte Cinema Hanoi 200
+680 Lotte Cinema Hongdae 240
+681 Lotte Cinema Konkuk University 230
+682 Lotte Cinema Nha Trang 290
+683 Lotte Cinema NowZone 260
+684 Lotte Cinema Nowon 220
+685 Lotte Cinema Nowzone 260
+686 Lotte Cinema Royal City 240
+687 Lotte Cinema Sinchon 220
+688 Lotte Cinema Thu Duc 240
+689 Lotte Cinema Ulsan 220
+690 Lotte Cinema World Tower 230
+691 Lumière Cinéma 150
+692 Lumière Pavilions - Beijing Shuangjing 310
+693 Lumière Pavilions - Shanghai Hongqiao 290
+694 Luxor Cinema 260
+695 Luxor Cinema Center 220
+696 MBO Atria Shopping Gallery 200
+697 MBO Cinemas Bukit Tinggi 200
+698 MBO Cinemas KSL City 200
+699 MBO Cinemas Kepong Village Mall 200
+700 MBO Cinemas Setapak Central 190
+701 MBO Cinemas Setapak Sentral 220
+702 MBO Cinemas The Spring 290
+703 MBO Cinemas The Starling 290
+704 MBO Kecil Ipoh 290
+705 MBO Setapak Central 220
+706 MCL Cinemas 290
+707 MK2 Bibliothèque 160
+708 MK2 Quai de Seine 160
+709 MOVIX Kyoto 170
+710 MOViE MOViE Pacific Place 200
+711 Majestic Passy 190
+712 Major Cineplex Big C Ratchaburi 170
+713 Major Cineplex Central Rama III 190
+714 Major Cineplex CentralPlaza Ladprao 240
+715 Major Cineplex CentralWorld 280
+716 Major Cineplex Chaengwattana 240
+717 Major Cineplex Future Park Rangsit 290
+718 Major Cineplex Lotus Khon Kaen 290
+719 Major Cineplex Lotus Nakhon Pathom 190
+720 Major Cineplex Lotus Samui 290
+721 Major Cineplex Pattaya 190
+722 Major Cineplex Pinklao 220
+723 Major Cineplex Rangsit 170
+724 Major Cineplex Ratchayothin 200
+725 Major Cineplex Sukhumvit 220
+726 Mall of Arabia Cinemas 190
+727 Mall of Egypt Cinemas 190
+728 Mathäser Filmpalast 250
+729 Mega CGR Epinay 240
+730 Mega City Mall Cinema 200
+731 MegaCity Cineplex 290
+732 Megabox COEX 200
+733 Megabox COEX Mall 200
+734 Megabox Daejeon 290
+735 Megabox Dongdaemun 160
+736 Megabox Gangnam 190
+737 Megabox Haeundae 200
+738 Megabox Mokdong 290
+739 Megabox Sinchon 220
+740 Miramar Cinemas 200
+741 MixCine - Chongqing 170
+742 MixCine - Shenzhen 260
+743 Modhumita Cinema Hall 190
+744 Multicines Sucre 170
+745 Multikino Gdańsk 290
+746 Multikino Kraków Plaza 260
+747 Multikino Poznań Malta 190
+748 Multikino Wola Park 200
+749 Multikino Złote Tarasy 280
+750 Multiplex Belgrano 220
+751 Multisala Barberini 310
+752 Muvi Cinemas Al Nakheel Mall 170
+753 Muvi Cinemas Hayat Mall 260
+754 Muvi Cinemas Nakheel Mall 240
+755 Muvi Cinemas Panorama Mall 310
+756 Muvi Cinemas Park Mall 200
+757 Muvi Cinemas Sahara Mall 190
+758 Méga CGR Évry 240
+759 Nile City Cinema 290
+760 Nordisk Film Kino Colosseum 200
+761 Nordisk Film Kino Drammen 240
+762 Nordisk Film Kino Kristiansand 220
+763 Nordisk Film Kino Stavanger 220
+764 Nordisk Film Kino Trondheim 230
+765 Nordisk Film Kino Tønsberg 170
+766 Novo Cinemas 250
+767 Novo Cinemas Dragon Mart 190
+768 Novo Cinemas Dubai Festival City 170
+769 Novo Cinemas Festival City 220
+770 Novo Cinemas Ibn Battuta Mall 200
+771 Novo Cinemas The Pearl 230
+772 Nu Metro 200
+773 Nu Metro Ballito Junction 170
+774 Nu Metro Boardwalk 220
+775 Nu Metro Canal Walk 200
+776 Nu Metro Clearwater Mall 170
+777 Nu Metro Emperors Palace 170
+778 Nu Metro Galleria 260
+779 Nu Metro Hyde Park 220
+780 Nu Metro Key West 190
+781 Nu Metro Mall of Africa 240
+782 Nu Metro Menlyn Park 190
+783 Nu Metro Pavilion 170
+784 Nu Metro The Glen 220
+785 Nu Metro V&A Waterfront 170
+786 Nu Metro Westgate 170
+787 Nueplex Cinemas 230
+788 Nueplex Cinemas Rashid Minhas Road 260
+789 Nueplex Cinemas The Place DHA 240
+790 Nueplex Cinemas, The Place 280
+791 ODEON Leicester Square 180
+792 ODEON Leicester Square 280
+793 ODEON Liverpool ONE 260
+794 ODEON Luxe Greenwich 190
+795 ODEON Luxe Haymarket 190
+796 ODEON Luxe Leicester Square 230
+797 ODEON Luxe Leicester Square 280
+798 ODEON Southampton 240
+799 Octagon Cinema 150
+800 Odeon Agios Kosmas 190
+801 Odeon Bergen 260
+802 Odeon Fredrikstad 170
+803 Odeon Glyfada Cinemas 260
+804 Odeon Kifisia Cinemas 230
+805 Odeon Leicester Square 280
+806 Odeon Liverpool One 240
+807 Odeon Luxe Leicester Square 180
+808 Odeon Moss 190
+809 Odeon Oslo 280
+810 Odeon Piraeus Cinemas 240
+811 Odeon Sandvika 200
+812 Odeon Skien 290
+813 Odeon Starcity 230
+814 Odeon Trafford Centre 240
+815 Odeon Trafford Centre 240
+816 Odeon Trondheim 190
+817 Osaka Station City Cinema 240
+818 PVR Ambience Mall 190
+819 PVR Cinemas 180
+820 PVR Cinemas Inorbit Mall 190
+821 PVR Cinemas Oberoi Mall 310
+822 PVR Cinemas Phoenix Marketcity 280
+823 PVR Cinemas Xperia Mall 170
+824 PVR DLF Mall of India 170
+825 PVR Forum Mall 190
+826 PVR Highstreet Phoenix 190
+827 PVR ICON Versova 190
+828 PVR Inorbit Mall 170
+829 PVR Orion Mall 240
+830 PVR Pacific Mall 260
+831 PVR Phoenix Marketcity 310
+832 PVR Phoenix Mills 190
+833 PVR Plaza 220
+834 PVR Select City Walk 190
+835 Pacific Theatres at The Grove 230
+836 Packages Mall Cinestar 280
+837 Palace Cinema Como 190
+838 Palace Westgarth 230
+839 Palace ifc 170
+840 Paragon Cineplex 200
+841 Pathe Arena 170
+842 Pathe Balexert 230
+843 Pathe Buitenhof 190
+844 Pathe De Munt 280
+845 Pathe Flon Lausanne 220
+846 Pathe Kino Freiburg 240
+847 Pathe Kino La Praille 170
+848 Pathe Kino Mall of Switzerland 310
+849 Pathe Kino Sihlcity 230
+850 Pathe Kino Westside 220
+851 Pathe Küchlin 240
+852 Pathe Küchlin Basel 170
+853 Pathe Mall of Switzerland 310
+854 Pathe Rex 170
+855 Pathe Scheveningen 190
+856 Pathe Schouwburgplein 260
+857 Pathe Spuimarkt 170
+858 Pathe Tuschinski 280
+859 Pathe Westside 220
+860 Pathe Westside Bern 240
+861 Pathe de Munt 310
+862 Pathé Balexert 280
+863 Pathé Beaugrenelle 160
+864 Pathé Belle Épine 160
+865 Pathé Boulogne 170
+866 Pathé Conflans 290
+867 Pathé Flon 200
+868 Pathé Küchlin 260
+869 Pathé La Villette 160
+870 Pathé Levallois 170
+871 Pathé Mall of Switzerland 190
+872 Pathé Wepler 170
+873 Pathé Westside 290
+874 Picturehouse Central 220
+875 Picturehouse Central 220
+876 Playarte Bristol 200
+877 Plaza Cinema 220
+878 Plaza Cinema Plaza Mall 220
+879 Point 90 Cinemas 200
+880 Point 90 Mall Cinemas 200
+881 Porto Cairo Mall Cinemas 290
+882 Prestige Cinema 150
+883 Prestige Cinema Prestige Plaza 150
+884 Prime Cinemas 150
+885 Prime Cinemas Prime Complex 150
+886 Prince Charles Cinema 200
+887 Procinal La Central 290
+888 Procinal Mayorca Mega Plaza 230
+889 Procinal Puerta del Norte 260
+890 Reel Cinemas Al Ghurair Centre 240
+891 Reel Cinemas Dubai Marina Mall 260
+892 Reel Cinemas Jebel Ali Recreation Club 170
+893 Reel Cinemas The Dubai Mall 230
+894 Reel Cinemas The Pointe 220
+895 Regal Battery Park 220
+896 Regal Cinemas Battery Park 280
+897 Regal L.A. Live 230
+898 Regal Union Square 280
+899 Regal Union Square Stadium 14 170
+900 Renaissance Cinema Dandy Mega Mall 240
+901 Ringen Kino 190
+902 Robinsons Galleria Cinema 220
+903 Robinsons Magnolia Movieworld 260
+904 Robinsons Movieworld Galleria 310
+905 Robinsons Movieworld Magnolia 240
+906 Roxy Cinemas Boxpark 240
+907 Roxy Cinemas City Walk 200
+908 Roxy Cinemas Lagoona Mall 310
+909 Roxy Cinemas The Beach 190
+910 Royal 170
+911 Royal Cinema 170
+912 Royal Films Americano 220
+913 Royal Films Buenaventura 170
+914 Royal Films Buenavista 230
+915 Royal Films Portal del Prado 310
+916 Royal Films Santafe 240
+917 Royal Films Santafé 240
+918 Royal Plaza Cinema 240
+919 SF Bio Göteborg 240
+920 SF Bio Helsingborg 170
+921 SF Bio Heron City 230
+922 SF Bio Mall of Scandinavia 310
+923 SF Bio Malmö 170
+924 SF Bio Norrköping 240
+925 SF Bio Sickla 220
+926 SF Bio Uppsala 170
+927 SF Bio Västerås 240
+928 SF Cinema CentralWorld 280
+929 SF Cinema City CentralFestival Chiang Mai 240
+930 SF Cinema City CentralPlaza Grand Rama 9 220
+931 SF Cinema City CentralPlaza Udon Thani 170
+932 SF Cinema City MBK Center 220
+933 SF Cinema City Robinson Srisaman 240
+934 SF Cinema City Terminal 21 290
+935 SF Cinema City Terminal 21 Korat 170
+936 SF Cinema City The Crystal Ratchapruek 170
+937 SF Cinema City The Mall Bangkapi 190
+938 SF Cinema Terminal 21 240
+939 SF Cinema The Mall Bangkapi 310
+940 SF World Cinema CentralWorld 230
+941 SM Cinema Aura Premier 290
+942 SM Cinema Fairview Terraces 190
+943 SM Cinema Mall of Asia 200
+944 SM Cinema Megamall 280
+945 SM Cinema North Edsa 260
+946 SM Mall of Asia Cinema 200
+947 SM Megamall Cinema 280
+948 SM North EDSA Cinema 190
+949 SPI Cinemas Forum Vijaya Mall 290
+950 SPI Cinemas Lulu Mall 310
+951 Saga Kino 260
+952 San Stefano Mall Cinemas 240
+953 Sarit Centre IMAX 220
+954 Scotiabank Theatre 150
+955 Scotiabank Theatre Calgary 170
+956 Scotiabank Theatre Chinook 240
+957 Scotiabank Theatre Edmonton 160
+958 Scotiabank Theatre Toronto 170
+959 Scotiabank Theatre Vancouver 230
+960 Seef Cinema 220
+961 Shanghai Film Art Center 200
+962 Shaw Theatres JCube 260
+963 Shaw Theatres Nex 200
+964 Shaw Theatres Seletar 240
+965 Shaw Theatres Seletar Mall 290
+966 Shaw Theatres Waterway Point 170
+967 Shin Kong Cinemas 220
+968 Shishu Academy Cinema Hall 170
+969 Show Motion Cinemas 260
+970 Showcase Belgrano 260
+971 Showcase Cinema de Lux Leicester 190
+972 Showcase Norte 170
+973 Showtime Cinemas 240
+974 Showtime Cinemas Taichung 190
+975 Shyamoli Cinema 260
+976 Shyamoli Cinema Chittagong 290
+977 Silver Cinema 170
+978 Silverbird Cinemas Festival Mall 220
+979 Silverbird Cinemas Ikeja 200
+980 Silverbird Cinemas Victoria Island 290
+981 Skandia 260
+982 Slotts 290
+983 Sozo World Cinema 240
+984 Spegeln 200
+985 Star Cineplex 280
+986 Star Cineplex Bashundhara 240
+987 Star Cineplex Bashundhara City 230
+988 Star Cineplex Bashundhara Residential Area 240
+989 Star Cineplex Chittagong 240
+990 Star Cineplex SKS Tower 220
+991 Star Cineplex Shimanto Shambhar 310
+992 Star Cineplex Shimanto Square 310
+993 Stars Cinema 220
+994 Ster Cinemas Agia Paraskevi 170
+995 Ster Cinemas Ellinikon 260
+996 Ster-Kinekor 180
+997 Ster-Kinekor Blue Route Mall 310
+998 Ster-Kinekor Brooklyn Mall 260
+999 Ster-Kinekor Cresta 170
+1000 Ster-Kinekor Eastgate 200
+1001 Ster-Kinekor Gateway 200
+1002 Ster-Kinekor I langa Mall 150
+1003 Ster-Kinekor Ilanga Mall 150
+1004 Ster-Kinekor Irene Mall 230
+1005 Ster-Kinekor Kolonnade 260
+1006 Ster-Kinekor Mall of Africa 180
+1007 Ster-Kinekor Rosebank Mall 280
+1008 Ster-Kinekor Sandton City 180
+1009 Ster-Kinekor The Grove 150
+1010 Ster-Kinekor The Grove Mall 190
+1011 Ster-Kinekor The Zone 190
+1012 Ster-Kinekor Tyger Valley 190
+1013 Ster-Kinekor Tygervalley 190
+1014 Ster-Kinekor Westgate Shopping Centre 290
+1015 Styx 170
+1016 T Joy Hakata 220
+1017 T Joy Kyoto 190
+1018 T Joy Nijo 290
+1019 TGV 1 Utama 260
+1020 TGV Bukit Tinggi 240
+1021 TGV Cinemas 1 Utama 310
+1022 TGV Cinemas AEON Tebrau City 240
+1023 TGV Cinemas Bukit Tinggi 260
+1024 TGV Cinemas Bukit Tinggi Klang 170
+1025 TGV Cinemas Gurney Paragon 170
+1026 TGV Cinemas KLCC 190
+1027 TGV Cinemas One Utama 220
+1028 TGV Cinemas Setia Walk 240
+1029 TGV Cinemas Sunway Pyramid 230
+1030 TGV Sunway Pyramid 230
+1031 TOHO Cinemas Namba 240
+1032 TOHO Cinemas Roppongi Hills 280
+1033 The Printworks 240
+1034 The Space Cinema Belpasso 240
+1035 The Space Cinema Catanzaro Lido 170
+1036 The Space Cinema Milano Centrale 260
+1037 The Space Cinema Milano Odeon 230
+1038 The Space Cinema MilanoFiori 260
+1039 The Space Cinema Odeon 220
+1040 The Space Cinema Parco de Medici 190
+1041 The Space Cinema Sesto San Giovanni 220
+1042 Toei Uzumasa Eigamura 230
+1043 Toho Cinemas 290
+1044 Toho Cinemas Hibiya 240
+1045 Toho Cinemas Kawasaki 290
+1046 Toho Cinemas Namba 200
+1047 Toho Cinemas Roppongi Hills 290
+1048 Toho Cinemas Shinjuku 240
+1049 Toho Cinemas Umeda 170
+1050 Toho Cinemas Yokohama 190
+1051 UA Cityplaza 230
+1052 UA Megabox 240
+1053 UA iSQUARE 260
+1054 UCI Cinemas Ancona 240
+1055 UCI Cinemas Bicocca 190
+1056 UCI Cinemas Casoria 170
+1057 UCI Cinemas Certosa 170
+1058 UCI Cinemas Firenze 290
+1059 UCI Cinemas Fiumara 190
+1060 UCI Cinemas Lingotto 310
+1061 UCI Cinemas Pioltello 190
+1062 UCI Kinoplex Anália Franco 260
+1063 UCI Kinoplex Morumbi 290
+1064 UCI Kinoplex NorteShopping 200
+1065 UCI Kinoplex ParkShopping Campo Grande 290
+1066 UCI Kinoplex Shopping da Ilha 170
+1067 UCI Kinowelt Annenhof 220
+1068 UCI Kinowelt Bochum 240
+1069 UCI Kinowelt Colosseum 170
+1070 UCI Kinowelt Dresden 240
+1071 UCI Kinowelt Duisburg 160
+1072 UCI Kinowelt Düsseldorf 220
+1073 UCI Kinowelt Friedrichshain 310
+1074 UCI Kinowelt Gropius Passagen 220
+1075 UCI Kinowelt Mercedes Platz 240
+1076 UCI Kinowelt Millennium City 230
+1077 UCI Kinowelt Ruhr Park 230
+1078 UCI Kinowelt SCS 240
+1079 UCI Kinowelt am Eastgate 230
+1080 UCI New York City Center 220
+1081 UGC Bercy 260
+1082 UGC Cine Cité Strasbourg 170
+1083 UGC Cinema de Brouckère 240
+1084 UGC Ciné Cité Bercy 190
+1085 UGC Ciné Cité Confluence 160
+1086 UGC Ciné Cité La Défense 200
+1087 UGC Ciné Cité Les Halles 190
+1088 UGC Ciné Cité Liège 220
+1089 UGC Ciné Cité Metz 170
+1090 UGC Ciné Cité Strasbourg 240
+1091 UGC De Brouckère 230
+1092 UGC Les Halles 280
+1093 UGC Toison dOr 230
+1094 UVK Multicines Basadre 240
+1095 UVK Multicines Larcomar 310
+1096 Umeda Burg 7 240
+1097 United Cinemas Aqua City Odaiba 190
+1098 United Cinemas Canal City 13 200
+1099 United Cinemas Hiroshima 160
+1100 United Cinemas Kawasaki 240
+1101 United Cinemas Osaka 220
+1102 United Cinemas Sapporo 170
+1103 United Cinemas Toyosu 190
+1104 Universal Cinemas 190
+1105 Universal Cinemas Emporium Mall 200
+1106 Universal Cinemas Multan 170
+1107 Uptown Mall Cinemas 290
+1108 Urania Kino 310
+1109 Urania Kino Center 170
+1110 VOX Cineco 150
+1111 VOX Cineco Seef 150
+1112 VOX Cinemas 200
+1113 VOX Cinemas 200
+1114 VOX Cinemas 300
+1115 VOX Cinemas Al Muhaisnah 170
+1116 VOX Cinemas Al Qasr Mall 290
+1117 VOX Cinemas City Centre 300
+1118 VOX Cinemas City Centre Deira 290
+1119 VOX Cinemas Deira City Centre 290
+1120 VOX Cinemas Doha Festival City 280
+1121 VOX Cinemas Granada Center 220
+1122 VOX Cinemas Mall of the Emirates 280
+1123 VOX Cinemas Mercato Mall 190
+1124 VOX Cinemas Oman Avenues Mall 200
+1125 VOX Cinemas Panorama Mall 240
+1126 VOX Cinemas Red Sea Housing 290
+1127 VOX Cinemas Red Sea Mall 230
+1128 VOX Cinemas Riyadh Front 260
+1129 VOX Cinemas Riyadh Park 280
+1130 VOX Cinemas Villaggio 200
+1131 VOX Cinemas Yas Mall 260
+1132 VakifBank World Cinema 200
+1133 VakifBank World Cinema Istinye Park 290
+1134 VakifBank World Cinema Trump Towers 220
+1135 Vie Show Cinemas 280
+1136 Vie Show Cinemas - T.S. Mall 190
+1137 Vie Show Cinemas Hualien Farglory 240
+1138 Vie Show Cinemas Kaohsiung 170
+1139 Vie Show Cinemas Kenting 170
+1140 Vie Show Cinemas Taichung Tiger City 220
+1141 Vie Show Cinemas Tainan 240
+1142 Vie Show Cinemas Tainan Focus Square 220
+1143 Vie Show Cinemas Taipei Hsin Yi 280
+1144 Vie Show Cinemas Taipei Q Square 310
+1145 Viewshow Cinemas 260
+1146 Vika Kino 220
+1147 Village Avellaneda 220
+1148 Village Cinemas 200
+1149 Village Cinemas Athens Mall 280
+1150 Village Cinemas Crown 200
+1151 Village Cinemas Doncaster 160
+1152 Village Cinemas Golden Hall 310
+1153 Village Cinemas Mediterranean Cosmos 170
+1154 Village Cinemas Recoleta 300
+1155 Village Cinemas Southland 190
+1156 Village Cinemas Thessaloniki 190
+1157 Village Cines Avellaneda 190
+1158 Village Cines Recoleta 200
+1159 Village Entertainment Center 200
+1160 Village Faliro 220
+1161 Village Kifisia 240
+1162 Village Pilar 290
+1163 Village Recoleta 200
+1164 Village Shopping & More 280
+1165 Vox Cinemas 150
+1166 Vox Cinemas Mall of the Emirates 300
+1167 Vue Cinema Amersfoort 240
+1168 Vue Cinema Eindhoven 260
+1169 Vue Cinema Hilversum 230
+1170 Vue Cinemas Alkmaar 310
+1171 Vue Cinemas Amersfoort 220
+1172 Vue Cinemas De Kuip 230
+1173 Vue Cinemas Eindhoven 170
+1174 Vue Cinemas Hilversum 240
+1175 Vue Cinemas Westfield 230
+1176 Vue Cinemas Westfield London 230
+1177 Vue Edinburgh Ocean Terminal 170
+1178 Vue Manchester Printworks 190
+1179 Vue Manchester Printworks 190
+1180 Vue Shepherds Bush 260
+1181 Vue West End 230
+1182 Vue West End 230
+1183 Vue Westfield London 190
+1184 Wanda Cinema 150
+1185 Wanda Cinema - Chengdu Yintai In99 220
+1186 Wanda Cinema CBD 160
+1187 Wanda Cinema Chengdu 200
+1188 Wanda Cinema Futian 250
+1189 Wanda Cinema Guangzhou 220
+1190 Wanda Cinema Tianjin 290
+1191 Wanda Cinema Xidan 160
+1192 West End Park Cinema 190
+1193 XXI Beachwalk 240
+1194 XXI Gandaria City 240
+1195 XXI Lippo Mall Puri 290
+1196 XXI Mall Kelapa Gading 220
+1197 XXI Mall of Indonesia 230
+1198 XXI Plaza Indonesia 230
+1199 XXI Plaza Senayan 200
+1200 XXI Pondok Indah Mall 220
+1201 XXI Summarecon Mal Bekasi 190
+1202 XXI Summarecon Mal Serpong 170
+1203 XXI Supermal Karawaci 170
+1204 Yelmo Cines Ideal 190
+1205 Yelmo Cines Islazul 170
+1206 Yelmo Cines Plaza Mayor 260
+1207 Yelmo Cines Plaza Norte 2 200
+1208 Yelmo Cines Rivas Futura 190
+1209 Yelmo Cines Tres Aguas 170
+1210 Yelmo Cines Vialia Málaga 190
+1211 Zita Folkets Bio 220
+1212 Zoo Palast 300
+1213 Zoo Palast Berlin 310
+1214 mmCineplexes City Square JB 310
+1215 mmCineplexes Dpulze Cyberjaya 240
